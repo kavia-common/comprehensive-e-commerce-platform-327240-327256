@@ -1,0 +1,4 @@
+{
+    "command": "npm run build",
+    "working_directory": "/home/kavia/workspace/code-generation/comprehensive-e-commerce-platform-327240-327256/ecommerce_frontend"
+}
